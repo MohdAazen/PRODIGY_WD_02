@@ -1,4 +1,4 @@
-const playButton = document.getElementsByClassName("play")[0];
+        const playButton = document.getElementsByClassName("play")[0];
         const lapButton = document.getElementsByClassName("lap-b")[0];
         const resetButton = document.getElementsByClassName("reset")[0];
         const clearButton = document.getElementsByClassName("lap-clear-button")[0];
